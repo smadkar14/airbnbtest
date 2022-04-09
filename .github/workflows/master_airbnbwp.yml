@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'airbnbwp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E434B4CB097C441D9BEB8E419AE96088 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_88EB57721E4349C6BCB9D7B5D5F76A12 }}
